@@ -1,0 +1,29 @@
+{
+    "name": "Image-api",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "node image-api.js",
+        "staging": "node staging-api.js"
+    },
+    "dependencies": {
+        "body-parser": "^1.20.2",
+        "canvas": "^2.11.2",
+        "canvas-node": "^0.3.23",
+        "child_process": "*",
+        "cors": "^2.8.5",
+        "exifr": "^7.1.3",
+        "express": "*",
+        "express-fileupload": "^1.4.1",
+        "express-rate-limit": "^7.1.2",
+        "fabric": "*",
+        "fontfaceobserver": "^2.3.0",
+        "generate-api-key": "^1.0.2",
+        "gimp": "^0.0.1-security",
+        "image-data-uri": "^2.0.1",
+        "jimp": "^0.22.12",
+        "node-cron": "^3.0.2",
+        "redis": "*",
+        "sharp": "^0.33.4",
+        "winston": "*"
+    }
+}
