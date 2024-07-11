@@ -23,3 +23,24 @@ It is in active development.
 ## Contact
 
 Please [mail me](email:girish@photoveda.pro) for support.
+
+## Popular API websites
+
+- [ipstack](ipstack.com)
+
+- [noun project for icons](https://api.thenounproject.com/getting_started.html)
+
+- [market data API](https://marketstack.com/)
+
+- [weather API](https://weatherstack.com/)
+
+- [ HTTP cat fun](https://http.cat/)
+
+- [ Notion API](https://developers.notion.com/)
+
+- [Postman API listing](https://www.postman.com/explore)
+
+- [Free APIs . io ](https://free-apis.github.io/)
+
+- [Publicapis . dev](https://publicapis.dev/)
+
